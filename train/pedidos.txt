@@ -1,0 +1,31 @@
+Quiero hacer un pedido
+Deseo comprar pollo
+Cómo pedir pollo clásico
+Quiero un pollo picante para llevar
+Deseo ordenar 2 pollos enteros
+Cómo hago para reservar
+Quiero un combo familiar
+Me gustaría pedir para llevar
+Cómo solicito un pedido grande
+Quiero 3 medios pollos
+Deseo ordenar con anticipación
+Cómo pido el pollo BBQ
+Quiero hacer un pedido express
+Deseo comprar para una fiesta
+Cómo encargo para un evento
+Quiero el especial de la casa
+Deseo ordenar con papas extras
+Cómo pido para oficina
+Quiero un paquete promocional
+Deseo el combo picante
+Cómo solicito entrega urgente
+Quiero pedir con ensalada
+Deseo el menú ejecutivo
+Cómo hago pedido por primera vez
+Quiero 5 cuartos de pollo
+Deseo ordenar con bebidas
+Cómo pido para reunión familiar
+Quiero el lunes de oferta
+Deseo combinar sabores
+Cómo hago pedido recurrente
+Quiero con extras de salsa

@@ -1,0 +1,31 @@
+A qué hora abren
+Horario de entregas
+Están abiertos los domingos
+Hasta qué hora trabajan
+Cuál es su horario de atención
+A qué hora cierran
+Qué días atienden
+Tienen horario extendido
+Desde qué hora atienden
+Tienen servicio en la noche
+A qué hora empiezan las entregas
+Hasta qué hora reciben pedidos
+Tienen horario de mañana
+Atienden en la tarde
+Qué horario manejan los fines de semana
+Tienen diferentes horarios por temporada
+A qué hora puedo pasar por mi pedido
+Cuál es el último horario para pedir hoy
+Tienen horario continuo
+Aceptan pedidos para mañana temprano
+Tienen horario especial en días festivos
+A qué hora recomiendan hacer pedidos
+Hasta qué hora hay repartidores disponibles
+Tienen horario de invierno y verano
+Cuánto tiempo antes debo hacer mi pedido
+Reciben órdenes para la madrugada
+Tienen horario de almuerzo y cena
+A qué hora es mejor pedir para el desayuno
+Hasta qué hora atienden los viernes
+Tienen servicio los feriados
+Qué días hacen entregas express
